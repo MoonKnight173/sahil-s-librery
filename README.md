@@ -1,1 +1,2 @@
-# sahil-s-librery
+# collisionAlgorithm
+Algorithm to detect collision between two objects
